@@ -11,7 +11,7 @@ please follow this link which helps you with basic syntax in editing the README.
 Here is the link [GitHub Page for syntax](https://help.github.com/articles/basic-writing-and-formatting-syntax/).
 
 
-##TEAM MEMBERS
+## TEAM MEMBERS
 
 **Sai Raju**<br/>
 **Karan**<br/>
