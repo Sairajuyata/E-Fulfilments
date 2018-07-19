@@ -11,10 +11,14 @@ please follow this link which helps you with basic syntax in editing the README.
 Here is the link [GitHub Page for syntax](https://help.github.com/articles/basic-writing-and-formatting-syntax/).
 
 
-TEAM MEMBERS
+##TEAM MEMBERS
 
 **Sai Raju**<br/>
-**Karan Madishetty**
+**Karan **<br>
+**Sai Tarun**<br>
+**Vishnu **<br>
+**Nikhil **<br>
+**Vyshnavi **<br>
+**Poorna Chandra**<br>
 
-
-Please do update the rest
+If missed please do update the page.
