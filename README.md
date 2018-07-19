@@ -13,7 +13,7 @@ Here is the link [GitHub Page for syntax](https://help.github.com/articles/basic
 
 TEAM MEMBERS
 
-**Sai Raju**
+**Sai Raju**<br/>
 **Karan Madishetty**
 
 
