@@ -20,5 +20,4 @@ Here is the link [GitHub Page for syntax](https://help.github.com/articles/basic
 **Nikhil**<br/>
 **Vyshnavi**<br/>
 **Poorna Chandra**<br/>
-
 If missed please do update the page.
