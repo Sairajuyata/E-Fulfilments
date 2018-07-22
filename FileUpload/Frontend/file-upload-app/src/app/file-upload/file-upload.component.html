@@ -1,0 +1,52 @@
+<br><br>
+<div style="text-align:center">
+  <label>
+    <input type="file" (change)="selectFile($event)">
+  </label>
+  <button [disabled]="!selectedFiles"
+          (click)="upload()">Upload</button>
+</div>
+<!--
+<div>
+<form class="md-form">
+  <div class="file-field">
+    <a class="btn-floating purple-gradient mt-0 float-left">
+      <i class="fa fa-cloud-upload" aria-hidden="true"></i>
+      <input type="file" (change)="selectFile($event)">
+    </a>
+    <div class="file-path-wrapper">
+      <input class="file-path validate" type="text" placeholder="Upload your file">
+    </div>
+    <div><button [disabled]="!selectedFiles"
+                 (click)="upload()">Upload</button></div>
+  </div>
+</form>
+</div>
+
+<div>
+
+  <form class="md-form">
+    <div class="file-field">
+      <div class="btn btn-primary btn-sm float-left">
+        <span>Choose file</span>
+        <input type="file">
+      </div>
+      <div class="file-path-wrapper">
+        <input class="file-path validate" type="text" placeholder="Upload your file">
+      </div>
+    </div>
+  </form>
+
+  <form class="md-form" action="#">
+    <div class="file-field">
+      <div class="btn btn-primary btn-sm float-left">
+        <span>Choose files</span>
+        <input type="file" multiple>
+      </div>
+      <div class="file-path-wrapper">
+        <input class="file-path validate" type="text" placeholder="Upload one or more files">
+      </div>
+    </div>
+  </form>
+</div>
+-->

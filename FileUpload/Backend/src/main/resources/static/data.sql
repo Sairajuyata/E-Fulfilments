@@ -1,0 +1,7 @@
+CREATE TABLE doc_model(
+  id BIGINT NOT NULL AUTO_INCREMENT,
+  name VARCHAR(100),
+  type VARCHAR(10),
+  data LONGBLOB NOT NULL,
+  PRIMARY KEY (id)
+);
