@@ -17,6 +17,8 @@ import org.springframework.web.bind.annotation.ResponseBody;
 import org.springframework.web.multipart.MultipartFile;
 import org.springframework.web.servlet.ModelAndView;
 
+import com.nikhil.hibernate.services.FileServices;
+
 
 
 
@@ -67,7 +69,8 @@ if(fileType.equals("pdf")) {
 
 				logger.info("Server File Location="
 						+ serverFile.getAbsolutePath());
-
+				FileServices fs = new FileServices();
+              fs.upload(name,file);
 				return "You successfully uploaded file=" + name;
 			} catch (Exception e) {
 				e.printStackTrace();
